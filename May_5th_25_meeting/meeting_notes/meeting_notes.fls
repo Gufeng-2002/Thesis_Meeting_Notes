@@ -1,8 +1,8 @@
-PWD /Users/gufeng/2025_winter/Thesis student materials/meeting_notes/5_5_25_meeting1
+PWD /Users/gufeng/2025_winter/Thesis student materials/Thesis_Meeting_Notes/May_5th_25_meeting1/meeting_notes
 INPUT /Users/gufeng/Library/TinyTeX/texmf.cnf
 INPUT /Users/gufeng/Library/TinyTeX/texmf-dist/web2c/texmf.cnf
 INPUT /Users/gufeng/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/gufeng/2025_winter/Thesis student materials/meeting_notes/5_5_25_meeting1/meeting_notes.tex
+INPUT /Users/gufeng/2025_winter/Thesis student materials/Thesis_Meeting_Notes/May_5th_25_meeting1/meeting_notes/meeting_notes.tex
 OUTPUT meeting_notes.log
 INPUT /Users/gufeng/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 INPUT /Users/gufeng/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls

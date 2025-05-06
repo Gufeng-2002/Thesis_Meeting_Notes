@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.1)  5 MAY 2025 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.1)  5 MAY 2025 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/gufeng/2025_winter/Thesis student materials/meeting_notes/5_5_25_meeting1/meeting_notes.tex"
-(/Users/gufeng/2025_winter/Thesis student materials/meeting_notes/5_5_25_meeting1/meeting_notes.tex
+**"/Users/gufeng/2025_winter/Thesis student materials/Thesis_Meeting_Notes/May_5th_25_meeting1/meeting_notes/meeting_notes.tex"
+(/Users/gufeng/2025_winter/Thesis student materials/Thesis_Meeting_Notes/May_5th_25_meeting1/meeting_notes/meeting_notes.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/Users/gufeng/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -230,12 +230,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 17.
+
+Overfull \hbox (2.05392pt too wide) in paragraph at lines 18--24
+\OT1/cmr/bx/n/10.95 Topic: \OT1/cmr/m/n/10.95 Es-tab-lish-ing a gen-eral frame-work and draft-ing a pro-posal for Feng's the-sis. \OT1/cmr/bx/n/10.95 GitHub
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 35.
+(Font)              <10.95> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 35.
+(Font)              <9> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <5> on input line 36.
 
 
 [1
@@ -250,17 +255,17 @@ Package rerunfilecheck Info: File `meeting_notes.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  8461 strings out of 475172
- 133516 string characters out of 5765190
+ 133591 string characters out of 5765190
  539475 words of memory out of 5000000
  31397 multiletter control sequences out of 15000+600000
  564954 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,8n,79p,408b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,433b,435s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/gufeng/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on meeting_notes.pdf (1 page, 88627 bytes).
+Output written on meeting_notes.pdf (1 page, 89906 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
