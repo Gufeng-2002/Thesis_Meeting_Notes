@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1746513467.80037 "/Users/gufeng/2025_winter/Thesis student materials/Thesis_Meeting_Notes/May_5th_25_meeting1/meeting_notes/meeting_notes.tex" "meeting_notes.pdf" "meeting_notes" 1746513468.03699 0
-  "/Users/gufeng/2025_winter/Thesis student materials/Thesis_Meeting_Notes/May_5th_25_meeting1/meeting_notes/meeting_notes.tex" 1746513467.5692 2304 bb4b44a989c786b4fced0e2ac95ab869 ""
+["pdflatex"] 1746513644.21955 "/Users/gufeng/2025_winter/Thesis student materials/Thesis_Meeting_Notes/May_5th_25_meeting/meeting_notes/meeting_notes.tex" "meeting_notes.pdf" "meeting_notes" 1746513644.46532 0
+  "/Users/gufeng/2025_winter/Thesis student materials/Thesis_Meeting_Notes/May_5th_25_meeting/meeting_notes/meeting_notes.tex" 1746513643.98199 2317 5aef0b1475f4853669a1792a9102359a ""
   "/Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -66,9 +66,9 @@
   "/Users/gufeng/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk" 1746511600.59339 12644 c64eda79190fdc62dafebc589704a5f2 ""
   "/Users/gufeng/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1738446154 1928539 3ea1732a7e3f60ad79c7a5d0834cf1ff ""
   "/Users/gufeng/Library/TinyTeX/texmf.cnf" 1738446073.99775 708 85fd07691b6294ba94c59dbc62380410 ""
-  "meeting_notes.aux" 1746513468.00392 277 95bb01daa2a13ccc48f7cd2b021665d7 "pdflatex"
-  "meeting_notes.out" 1746513468.00425 136 8bdf55d08e4429aa7cd7f4151cff1586 "pdflatex"
-  "meeting_notes.tex" 1746513467.5692 2304 bb4b44a989c786b4fced0e2ac95ab869 ""
+  "meeting_notes.aux" 1746513644.43136 277 95bb01daa2a13ccc48f7cd2b021665d7 "pdflatex"
+  "meeting_notes.out" 1746513644.43178 136 8bdf55d08e4429aa7cd7f4151cff1586 "pdflatex"
+  "meeting_notes.tex" 1746513643.98199 2317 5aef0b1475f4853669a1792a9102359a ""
   (generated)
   "meeting_notes.aux"
   "meeting_notes.log"
