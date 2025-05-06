@@ -85,10 +85,10 @@ INPUT ./meeting_notes.out
 INPUT ./meeting_notes.out
 INPUT meeting_notes.out
 INPUT meeting_notes.out
-OUTPUT meeting_notes.pdf
 INPUT ./meeting_notes.out
 INPUT ./meeting_notes.out
 OUTPUT meeting_notes.out
+OUTPUT meeting_notes.pdf
 INPUT /Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /Users/gufeng/Library/TinyTeX/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
