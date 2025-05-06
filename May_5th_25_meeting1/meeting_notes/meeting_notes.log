@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.1)  5 MAY 2025 23:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.1)  6 MAY 2025 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -230,11 +230,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 17.
-
-Overfull \hbox (2.05392pt too wide) in paragraph at lines 18--24
-\OT1/cmr/bx/n/10.95 Topic: \OT1/cmr/m/n/10.95 Es-tab-lish-ing a gen-eral frame-work and draft-ing a pro-posal for Feng's the-sis. \OT1/cmr/bx/n/10.95 GitHub
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -262,7 +257,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  75i,8n,79p,432b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/gufeng/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/gufeng/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on meeting_notes.pdf (1 page, 89735 bytes).
+Output written on meeting_notes.pdf (1 page, 89726 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
